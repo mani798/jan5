@@ -1,0 +1,132 @@
+body{
+    background: url("./back.jpg") no-repeat center center / cover;
+
+}
+
+ul {
+    margin-top: -180px;
+    text-align: right;
+}
+
+li{
+   display: inline;
+}
+li a{
+    display: inline-block;
+    padding: 20px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: small; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.image1{
+    width: 15%;
+}
+
+.blue-text{
+    color: #FFB573;
+}
+.red-text{
+    color: #FFB573;
+
+}
+.green-text{
+    color: green;
+}
+.heading{
+    padding: 50px;
+    margin-left: 10%;
+    font-size: 40px;
+    font-family: Papyrus;
+    
+}
+
+.photo1{
+    float: right;
+    margin-top: -170px;
+    margin-right: 90px;
+}
+
+.photo2{
+    float: right;
+    margin-top: -300px;
+    margin-right: -40px;
+    
+}
+
+.text{
+    padding: 50px;
+    margin-left: 10%;
+    font-family: sans-serif;
+    color: #FFB573;
+    font-size: 30px;
+       
+}
+.button{
+    border: 1px;
+    border-style: transparent;
+    border-radius: 8px;
+    color: #47280c;
+    background-color:#FFB573 ;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-right: 70px;
+    
+}
+.buttons{
+    border: 1px;
+    border-style: transparent;
+    border-radius: 10px;
+    color: #47280c;
+    background-color:#FFB573 ;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-right: 70px;
+    
+}
+
+.play{
+    width: 25px;
+    height: 25px;
+}
+
+.advertisement{
+    
+    border: 4px;
+    border-style: transparent;
+    width: 10%;
+    background-color: rgb(253,184,12);
+    padding: 20px;
+    margin-left: 12%;
+    border-radius: 20px;
+    
+}
+.advertisement h2{
+    background-color: rgb(253,184,12);
+    text-align: center;
+    font-family: papyrus;
+}
+
+.advertisement p{
+    background-color: rgb(253,184,12);
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.advertisement2{
+    
+    
+    
+    
+    margin-right:30%;
+    margin-top: -260px;
+    
+    float: right;
+    
+}
+
+.image2{
+    margin-top: 50px;
+    margin-left: 160px;
+}
